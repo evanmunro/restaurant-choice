@@ -1,6 +1,6 @@
 # CS230 Final Project Code Repository 
 
-The repository contains the code used in my CS230 Project "Deep Learning for Restaurant Choice". The repository is made up of a Jupyter Notebook, 5 executable python files, and 1 python file containing classes written for this project.  
+The repository contains the code used in my [CS230 Project](http://evanmunro.ca/files/restaurantChoice.pdf) "Deep Learning for Restaurant Choice". The repository is made up of a Jupyter Notebook, 5 executable python files, and 1 python file containing classes written for this project.  
 
 - prepareRestaurantData.ipynb is a Jupyter Notebook used to prepare the restaurant choice data and calculate summary statistics. 
 - testModel.py loads a saved neural network model and calculates test error and accuracy on the test set. 
