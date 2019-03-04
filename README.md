@@ -20,4 +20,4 @@ For a dataset with n_x covariates for each choice and n_y items that the user ch
 
 #### Tutorial Using TravelMode Dataset
 
-TBD
+The travelmode_tutorial Jupyter notebook contains a simple tutorial: it shows how to write a simple Dataset class and estimate the Multinomial Logit model on a toy dataset from the R package AER. 
